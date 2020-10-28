@@ -1,0 +1,26 @@
+.left-arrow{
+  color: #000
+}
+.verify-phone-input{
+  margin-top: 30px;
+}
+.verify-phone-prefix{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+a.warning-btn{
+  border-radius: 30px;
+  margin: 30px auto 0;
+  width: 90%;
+}
+.policy-text{
+  color: #000;
+  text-align: left;
+}
+.policy-strong-text{
+  text-decoration: underline;
+}
+.policy-content{
+  display: block;
+}
